@@ -6,3 +6,4 @@ git commit -m "message"
 git init
 git clone <repository name>
 git remote add origin <url>
+git add .
