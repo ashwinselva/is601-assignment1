@@ -1,31 +1,31 @@
 git checkout -b <branch_name> #creates a new branch and switches
 
-git status
+git status #finding status
 
-git merge <branch_name>
+git merge <branch_name> #merge the branch with current branch
 
-git push origin main
+git push origin main # push the committed code to main branch
 
-git commit -m "message"
+git commit -m "message" # committing code with message
 
-git init
+git init # initializing git
 
-git clone <repository name>
+git clone <repository name> # cloning the repository from git
 
-git remote add origin <url>
+git remote add origin <url> # setting up the repo link
 
-git add .
+git add . #add the code before committing
 
-git pull origin main
+git pull origin main # get the code from the branch
 
-git log
+git log # checking log history
 
-git show commit
+git show commit # show commit history
 
-git remote -v
+git remote -v # check if repo is connected
 
-git reset --hard <commit>
+git reset --hard <commit> # reseting last commit
 
-git branch -d branch_name
+git branch -d branch_name # delete merged branch
 
-git branch -D branch_name
+git branch -D branch_name # forces to delete branch
