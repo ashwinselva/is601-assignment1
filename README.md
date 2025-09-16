@@ -9,3 +9,4 @@ git remote add origin <url>
 git add .
 git pull origin main
 git log
+git show commit
