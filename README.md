@@ -8,3 +8,4 @@ git clone <repository name>
 git remote add origin <url>
 git add .
 git pull origin main
+git log
