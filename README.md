@@ -10,3 +10,4 @@ git add .
 git pull origin main
 git log
 git show commit
+git remote -v
