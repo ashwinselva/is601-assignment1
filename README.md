@@ -3,3 +3,4 @@ git status
 git merge <branch_name>
 git push origin main
 git commit -m "message"
+git init
