@@ -13,3 +13,4 @@ git show commit
 git remote -v
 git reset --hard <commit>
 git branch -d branch_name
+git branch -D branch_name
